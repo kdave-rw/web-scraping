@@ -1,0 +1,1 @@
+this is web scraping that will work with a simple webpage with searching function and it will get information for a n e-commerce site called ihaha that trade electronic devices and the retrieved info with be displayed in another file named results
